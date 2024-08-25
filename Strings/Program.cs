@@ -1,4 +1,4 @@
-﻿// Assign a string to a variable
+﻿// Declare a variable of type string
 string myName = "Brandon";
 // Print the variable to the console
 Console.WriteLine(myName);
