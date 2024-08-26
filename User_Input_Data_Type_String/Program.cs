@@ -2,4 +2,4 @@
 Console.WriteLine("Example");
 
 // Get user input
-Console.ReadLine();
+string userInput = Console.ReadLine();
