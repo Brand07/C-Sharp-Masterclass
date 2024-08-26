@@ -1,0 +1,15 @@
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/bin/Debug/net8.0/Strings
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/bin/Debug/net8.0/Strings.deps.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/bin/Debug/net8.0/Strings.runtimeconfig.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/bin/Debug/net8.0/Strings.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/bin/Debug/net8.0/Strings.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/obj/Debug/net8.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/obj/Debug/net8.0/Strings.AssemblyInfoInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/obj/Debug/net8.0/Strings.AssemblyInfo.cs
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/obj/Debug/net8.0/Strings.csproj.CoreCompileInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/obj/Debug/net8.0/Strings.sourcelink.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/obj/Debug/net8.0/Strings.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/obj/Debug/net8.0/refint/Strings.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/obj/Debug/net8.0/Strings.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/obj/Debug/net8.0/Strings.genruntimeconfig.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Strings/obj/Debug/net8.0/ref/Strings.dll
