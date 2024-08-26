@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Pints whatever is in the brackets to the console
+Console.WriteLine("Example");
 
-Console.WriteLine("Hello, World!");
+// Get user input
+Console.ReadLine();
