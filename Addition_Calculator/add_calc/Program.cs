@@ -15,4 +15,13 @@ int secondNumber = 0;
 string firstNumberInput = Console.ReadLine();
 // Parse the first number
 firstNumber = int.Parse(firstNumberInput);
+// Prompt the user for the second number
+Console.WriteLine("Enter another whole number; ");
+// Store the second number
 string secondNumberInput = Console.ReadLine();
+// Parse the second number
+secondNumber = int.Parse(secondNumberInput);
+
+// Add the firstNumber and secondNumber
+int result = firstNumber + secondNumber;
+Console.WriteLine(result);
