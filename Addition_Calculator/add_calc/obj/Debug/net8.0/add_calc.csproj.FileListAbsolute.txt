@@ -1,0 +1,15 @@
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/bin/Debug/net8.0/add_calc
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/bin/Debug/net8.0/add_calc.deps.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/bin/Debug/net8.0/add_calc.runtimeconfig.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/bin/Debug/net8.0/add_calc.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/bin/Debug/net8.0/add_calc.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/obj/Debug/net8.0/add_calc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/obj/Debug/net8.0/add_calc.AssemblyInfoInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/obj/Debug/net8.0/add_calc.AssemblyInfo.cs
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/obj/Debug/net8.0/add_calc.csproj.CoreCompileInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/obj/Debug/net8.0/add_calc.sourcelink.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/obj/Debug/net8.0/add_calc.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/obj/Debug/net8.0/refint/add_calc.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/obj/Debug/net8.0/add_calc.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/obj/Debug/net8.0/add_calc.genruntimeconfig.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Addition_Calculator/add_calc/obj/Debug/net8.0/ref/add_calc.dll

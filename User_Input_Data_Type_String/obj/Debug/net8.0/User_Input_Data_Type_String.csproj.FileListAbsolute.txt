@@ -1,0 +1,15 @@
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/obj/Debug/net8.0/User_Input_Data_Type_String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/obj/Debug/net8.0/User_Input_Data_Type_String.AssemblyInfoInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/obj/Debug/net8.0/User_Input_Data_Type_String.AssemblyInfo.cs
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/obj/Debug/net8.0/User_Input_Data_Type_String.csproj.CoreCompileInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/obj/Debug/net8.0/User_Input_Data_Type_String.sourcelink.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/bin/Debug/net8.0/User_Input_Data_Type_String
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/bin/Debug/net8.0/User_Input_Data_Type_String.deps.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/bin/Debug/net8.0/User_Input_Data_Type_String.runtimeconfig.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/bin/Debug/net8.0/User_Input_Data_Type_String.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/bin/Debug/net8.0/User_Input_Data_Type_String.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/obj/Debug/net8.0/User_Input_Data_Type_String.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/obj/Debug/net8.0/refint/User_Input_Data_Type_String.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/obj/Debug/net8.0/User_Input_Data_Type_String.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/obj/Debug/net8.0/User_Input_Data_Type_String.genruntimeconfig.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/User_Input_Data_Type_String/obj/Debug/net8.0/ref/User_Input_Data_Type_String.dll

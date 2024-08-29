@@ -1,0 +1,15 @@
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/bin/Debug/net8.0/parse_convert
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/bin/Debug/net8.0/parse_convert.deps.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/bin/Debug/net8.0/parse_convert.runtimeconfig.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/bin/Debug/net8.0/parse_convert.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/bin/Debug/net8.0/parse_convert.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/obj/Debug/net8.0/parse_convert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/obj/Debug/net8.0/parse_convert.AssemblyInfoInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/obj/Debug/net8.0/parse_convert.AssemblyInfo.cs
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/obj/Debug/net8.0/parse_convert.csproj.CoreCompileInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/obj/Debug/net8.0/parse_convert.sourcelink.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/obj/Debug/net8.0/parse_convert.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/obj/Debug/net8.0/refint/parse_convert.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/obj/Debug/net8.0/parse_convert.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/obj/Debug/net8.0/parse_convert.genruntimeconfig.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/Conversion_helpers/parse_convert/obj/Debug/net8.0/ref/parse_convert.dll
