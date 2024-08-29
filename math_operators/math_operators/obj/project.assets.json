@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/matt_operators/matt_operators.csproj",
-      "projectName": "matt_operators",
-      "projectPath": "/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/matt_operators/matt_operators.csproj",
+      "projectUniqueName": "/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/math_operators.csproj",
+      "projectName": "math_operators",
+      "projectPath": "/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/math_operators.csproj",
       "packagesPath": "/Users/brandonyates/.nuget/packages/",
-      "outputPath": "/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/matt_operators/obj/",
+      "outputPath": "/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/brandonyates/.nuget/NuGet/NuGet.Config"
