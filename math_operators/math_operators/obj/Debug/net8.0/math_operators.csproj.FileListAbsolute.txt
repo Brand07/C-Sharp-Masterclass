@@ -1,0 +1,15 @@
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/bin/Debug/net8.0/math_operators
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/bin/Debug/net8.0/math_operators.deps.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/bin/Debug/net8.0/math_operators.runtimeconfig.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/bin/Debug/net8.0/math_operators.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/bin/Debug/net8.0/math_operators.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/obj/Debug/net8.0/math_operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/obj/Debug/net8.0/math_operators.AssemblyInfoInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/obj/Debug/net8.0/math_operators.AssemblyInfo.cs
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/obj/Debug/net8.0/math_operators.csproj.CoreCompileInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/obj/Debug/net8.0/math_operators.sourcelink.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/obj/Debug/net8.0/math_operators.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/obj/Debug/net8.0/refint/math_operators.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/obj/Debug/net8.0/math_operators.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/obj/Debug/net8.0/math_operators.genruntimeconfig.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/math_operators/obj/Debug/net8.0/ref/math_operators.dll
