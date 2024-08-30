@@ -11,3 +11,17 @@ Console.WriteLine(myName);
 // Only characters in UTF-16 format
 // Single quotes
 char myFavoriteCharacter = 'a';
+
+//String formatting and interpolation
+int num = 10;
+double price = 19.95;
+string name = "Brandon";
+//Interpolation
+Console.WriteLine($"The number is {num}");
+//Concatination
+Console.WriteLine("The number is " + num);
+
+//String formatting
+Console.WriteLine("The number is {0} and the price is {1}", num, price);
+
+
