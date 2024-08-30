@@ -7,4 +7,8 @@ int num2 = 13;
 Console.WriteLine($"Addition num1 + num2 = " +(num1 + num2));
 
 //Subtraction
-Console.WriteLine("Subtration of num1 - num2 = " + (num1 - num2));
+Console.WriteLine("Subtraction of num1 - num2 = " + (num1 - num2));
+
+//Multiplication
+Console.WriteLine("Multiply num1 & num2 = " + (num1 * num2));
+
