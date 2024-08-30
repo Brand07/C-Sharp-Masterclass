@@ -22,6 +22,6 @@ Console.WriteLine($"The number is {num}");
 Console.WriteLine("The number is " + num);
 
 //String formatting
-Console.WriteLine("The number is {0} and the price is {1}", num, price);
+Console.WriteLine("The number is {0} and the price is {1}. Your salesperson is {2}.", num, price, name);
 
 
