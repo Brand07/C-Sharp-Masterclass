@@ -1,5 +1,7 @@
 ﻿//Equality operators
 
+using System.Security.Cryptography;
+
 int num1 = 0;
 int num2 = 0;
 
@@ -12,6 +14,16 @@ Console.WriteLine("Enter a whole number: ");
 if (num1 == int.Parse(Console.ReadLine()))
 {
     Console.WriteLine("Numbers are equal.");
+    Console.WriteLine("What is your age? ");
+    int age = int.Parse(Console.ReadLine());
+    if (age >= 18)
+    {
+        Console.WriteLine("You've won a prize!");
+    }
+    else
+    {
+        Console.WriteLine("You're too young to claim a prize.");
+    }
 } 
 else 
 {
