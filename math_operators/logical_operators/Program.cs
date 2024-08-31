@@ -34,10 +34,14 @@ int num1 = 5;
 int num2 = 6;
 bool isHigher = num1 > num2;
 
-int age = 28;
+int age = 8;
 if (age >= 18)
 {
  Console.WriteLine("Go vote!");
+}
+else
+{
+  Console.WriteLine("You're too young.");
 }
 
 
