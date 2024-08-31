@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logical_operators", "logical_operators.csproj", "{AB2A8AFC-DE61-4821-90B8-937F579DF533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB2A8AFC-DE61-4821-90B8-937F579DF533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2A8AFC-DE61-4821-90B8-937F579DF533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2A8AFC-DE61-4821-90B8-937F579DF533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2A8AFC-DE61-4821-90B8-937F579DF533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
