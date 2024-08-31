@@ -8,6 +8,11 @@
 bool isRainy = false;
 bool isSunny = true;
 
+// Logical Operators:
+// AND &&
+// OR ||
+// NOT !
+
 // If statement using AND
 if (isRainy && isSunny)
 {
@@ -24,8 +29,17 @@ if (!isRainy)
  Console.WriteLine("There will be no rain today.");
 }
 
+// Relational operators > <
+int num1 = 5;
+int num2 = 6;
+bool isHigher = num1 > num2;
 
-// Logical Operators:
-// AND &&
-// OR ||
-// NOT !
+int age = 28;
+if (age >= 18)
+{
+ Console.WriteLine("Go vote!");
+}
+
+
+
+
