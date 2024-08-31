@@ -8,6 +8,17 @@ bool isEqual = num1 == num2; // true
 //Checks for inequality
 bool isNotEqual = num1 != num2; // false
 
+Console.WriteLine("Enter a whole number: ");
+if (num1 == int.Parse(Console.ReadLine()))
+{
+    Console.WriteLine("Numbers are equal.");
+} 
+else 
+{
+    Console.WriteLine("Numbers are not eqaul.");
+}
+
+/*
 
 int age = 16;
 bool isWithParents = false;
@@ -22,3 +33,5 @@ if (age >= 18 && isWithParents)
 {
     Console.WriteLine("Be a kid!");
 }
+
+*/
