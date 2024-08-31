@@ -1,4 +1,5 @@
-﻿// Declare a variable of type string
+﻿using System;
+// Declare a variable of type string
 string myName = "Brandon";
 // Print the variable to the console
 Console.WriteLine(myName);
@@ -28,7 +29,7 @@ Console.WriteLine("The number is {0} and the price is {1}. Your salesperson is {
 //string s1 = "this is a string with a slash / and a colon: ";
 //Console.WriteLine(s1);
 // Quoted text in strings has to be escaped with two back slashes.
-string s1 = "this is a \"string\" with a slash / and a colon: ";
+string s1 = "this is a \"string\" with a slash \\ and a colon: ";
 Console.WriteLine(s1);
 
 
