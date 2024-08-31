@@ -1,0 +1,15 @@
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/bin/Debug/net8.0/logical_operators
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/bin/Debug/net8.0/logical_operators.deps.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/bin/Debug/net8.0/logical_operators.runtimeconfig.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/bin/Debug/net8.0/logical_operators.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/bin/Debug/net8.0/logical_operators.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/obj/Debug/net8.0/logical_operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/obj/Debug/net8.0/logical_operators.AssemblyInfoInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/obj/Debug/net8.0/logical_operators.AssemblyInfo.cs
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/obj/Debug/net8.0/logical_operators.csproj.CoreCompileInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/obj/Debug/net8.0/logical_operators.sourcelink.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/obj/Debug/net8.0/logical_operators.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/obj/Debug/net8.0/refint/logical_operators.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/obj/Debug/net8.0/logical_operators.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/obj/Debug/net8.0/logical_operators.genruntimeconfig.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/math_operators/logical_operators/obj/Debug/net8.0/ref/logical_operators.dll
