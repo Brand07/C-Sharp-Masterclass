@@ -2,6 +2,7 @@
 
 using System.Security.Cryptography;
 
+/*
 int num1 = 0;
 int num2 = 0;
 
@@ -30,20 +31,26 @@ else
     Console.WriteLine("Numbers are not eqaul.");
 }
 
-/*
-
-int age = 16;
+*/
+Console.WriteLine("How old are you? ");
+int age = int.Parse(Console.ReadLine());
 bool isWithParents = false;
 
-if (age >= 18 && isWithParents)
+if (age >= 18)
 {
-    Console.WriteLine("Go to a school party with your parents.");
-} else if (age <= 18)
+    Console.WriteLine("Go party in the club!");
+}
+else if (age >= 13)
 {
-    Console.WriteLine("Party by yourself.");
-} else if (age < 6)
-{
-    Console.WriteLine("Be a kid!");
+    Console.WriteLine("Are you with your parents? Answer with Y or N. ");
+    string isWithParentsString = Console.ReadLine();
+    if (isWithParentsString == "y")
+    {
+        Console.WriteLine("Go party with your parents!");
+    }
+    else
+    {
+        Console.WriteLine("No party for you today.");
+    }
 }
 
-*/
