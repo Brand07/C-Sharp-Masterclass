@@ -53,4 +53,8 @@ else if (age >= 13)
         Console.WriteLine("No party for you today.");
     }
 }
+else 
+{
+    Console.WriteLine("No party");
+}
 
