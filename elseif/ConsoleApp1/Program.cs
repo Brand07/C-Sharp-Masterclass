@@ -34,7 +34,9 @@ else
 */
 Console.WriteLine("How old are you? ");
 int age = int.Parse(Console.ReadLine());
+#pragma warning disable IDE0059 // Unnecessary assignment of a value
 bool isWithParents = false;
+#pragma warning restore IDE0059 // Unnecessary assignment of a value
 
 if (age >= 18)
 {
