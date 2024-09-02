@@ -14,7 +14,7 @@ string userAnswerOne = Console.ReadLine();
 if (userAnswerOne == answerOne)
 {
 	Console.WriteLine("Correct!");
-	score = score + 1;
+	score++;
 }
 else
 {
@@ -26,7 +26,7 @@ string userAnswerTwo = Console.ReadLine();
 if (userAnswerTwo == answerTwo)
 {
 	Console.WriteLine("Correct!");
-	score = score + 1;
+	score++;
 }
 else
 {
@@ -38,7 +38,7 @@ string userAnswerThree = Console.ReadLine();
 if (userAnswerThree == answerThree)
 {
 	Console.WriteLine("Correct!");
-	score = score + 1;
+	score++;
 }
 else
 {
