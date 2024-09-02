@@ -58,5 +58,8 @@ switch (score)
 	case 3:
 		score = 3;
 		Console.WriteLine("You got 3 out of 3 correct!");
+		break;
+	default:
+		Console.WriteLine("You got 0 out of 3 right.");
 }
 Console.WriteLine($"Your score is {score}.");
