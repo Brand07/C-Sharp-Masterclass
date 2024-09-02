@@ -1,0 +1,15 @@
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/bin/Debug/net8.0/quiz_app
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/bin/Debug/net8.0/quiz_app.deps.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/bin/Debug/net8.0/quiz_app.runtimeconfig.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/bin/Debug/net8.0/quiz_app.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/bin/Debug/net8.0/quiz_app.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/obj/Debug/net8.0/quiz_app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/obj/Debug/net8.0/quiz_app.AssemblyInfoInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/obj/Debug/net8.0/quiz_app.AssemblyInfo.cs
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/obj/Debug/net8.0/quiz_app.csproj.CoreCompileInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/obj/Debug/net8.0/quiz_app.sourcelink.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/obj/Debug/net8.0/quiz_app.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/obj/Debug/net8.0/refint/quiz_app.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/obj/Debug/net8.0/quiz_app.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/obj/Debug/net8.0/quiz_app.genruntimeconfig.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/quiz_app/quiz_app/obj/Debug/net8.0/ref/quiz_app.dll
