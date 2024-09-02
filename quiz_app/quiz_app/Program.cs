@@ -61,5 +61,6 @@ switch (score)
 		break;
 	default:
 		Console.WriteLine("You got 0 out of 3 right.");
+		break;
 }
 Console.WriteLine($"Your score is {score}.");
