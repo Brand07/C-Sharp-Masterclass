@@ -45,3 +45,18 @@ else
 	Console.WriteLine($"Wrong, the correct answer is {answerThree}.");
 }
 
+switch (score)
+{
+	case 1:
+		score = 1;
+		Console.WriteLine("You got 1 out of 3 answers correct.");
+		break;
+	case 2:
+		score = 2;
+		Console.WriteLine("You got 2 out of 3 answers correct.");
+		break;
+	case 3:
+		score = 3;
+		Console.WriteLine("You got 3 out of 3 correct!");
+}
+Console.WriteLine($"Your score is {score}.");
