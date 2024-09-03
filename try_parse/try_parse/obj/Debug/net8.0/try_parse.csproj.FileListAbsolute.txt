@@ -1,0 +1,15 @@
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/bin/Debug/net8.0/try_parse
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/bin/Debug/net8.0/try_parse.deps.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/bin/Debug/net8.0/try_parse.runtimeconfig.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/bin/Debug/net8.0/try_parse.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/bin/Debug/net8.0/try_parse.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/obj/Debug/net8.0/try_parse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/obj/Debug/net8.0/try_parse.AssemblyInfoInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/obj/Debug/net8.0/try_parse.AssemblyInfo.cs
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/obj/Debug/net8.0/try_parse.csproj.CoreCompileInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/obj/Debug/net8.0/try_parse.sourcelink.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/obj/Debug/net8.0/try_parse.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/obj/Debug/net8.0/refint/try_parse.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/obj/Debug/net8.0/try_parse.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/obj/Debug/net8.0/try_parse.genruntimeconfig.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/try_parse/try_parse/obj/Debug/net8.0/ref/try_parse.dll
