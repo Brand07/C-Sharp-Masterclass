@@ -1,0 +1,15 @@
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/bin/Debug/net8.0/console_calculator
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/bin/Debug/net8.0/console_calculator.deps.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/bin/Debug/net8.0/console_calculator.runtimeconfig.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/bin/Debug/net8.0/console_calculator.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/bin/Debug/net8.0/console_calculator.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/obj/Debug/net8.0/console_calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/obj/Debug/net8.0/console_calculator.AssemblyInfoInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/obj/Debug/net8.0/console_calculator.AssemblyInfo.cs
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/obj/Debug/net8.0/console_calculator.csproj.CoreCompileInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/obj/Debug/net8.0/console_calculator.sourcelink.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/obj/Debug/net8.0/console_calculator.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/obj/Debug/net8.0/refint/console_calculator.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/obj/Debug/net8.0/console_calculator.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/obj/Debug/net8.0/console_calculator.genruntimeconfig.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/calculator_app/console_calculator/obj/Debug/net8.0/ref/console_calculator.dll
