@@ -20,9 +20,12 @@
 // } 
 
 // Guess the number game using while loop(s)
+Random random = new Random();
 
-int secretNumber = 42;
+
+int secretNumber = random.Next(1, 101);
 int userGuess = 0;
+int counter = 0;
 
 Console.WriteLine("Guess the number I'm thinking between 1 and 100: ");
 
@@ -33,15 +36,17 @@ while (userGuess != secretNumber)
 	if (userGuess < secretNumber)
 	{
 		Console.WriteLine("Too Low.");
+		counter++;
 	}
 	else if (userGuess > secretNumber)
 	{
 		Console.WriteLine("Too High.");
+		counter++;
 	}
 	else if (userGuess == secretNumber)
 	{
 		userGuess = secretNumber;
-		Console.WriteLine("Correct!");
+		Console.WriteLine($"Correct! It took you {counter} tries.");
 	}
 }
 
