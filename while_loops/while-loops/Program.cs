@@ -8,10 +8,15 @@ for (int i = 0; i < 10; i++)
 }
 
 // While Loop example
-Console.WriteLine("While Loop:");
-int counter = 0;
-while (counter < 10)
+Console.WriteLine("Enter 'go' or 'stay'.");
+
+string userChoice = Console.ReadLine();
+
+while (userChoice == "go")
 {
-	Console.WriteLine(counter);
-	counter++;
-}
+	Console.WriteLine($"I was thinking {userChoice} too!");
+	Console.WriteLine("Want to keep going? Enter 'go'.");
+	userChoice = Console.ReadLine();
+} 
+
+
