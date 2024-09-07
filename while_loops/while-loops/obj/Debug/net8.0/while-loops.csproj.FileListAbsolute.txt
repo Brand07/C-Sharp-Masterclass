@@ -1,0 +1,15 @@
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/bin/Debug/net8.0/while-loops
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/bin/Debug/net8.0/while-loops.deps.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/bin/Debug/net8.0/while-loops.runtimeconfig.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/bin/Debug/net8.0/while-loops.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/bin/Debug/net8.0/while-loops.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/obj/Debug/net8.0/while-loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/obj/Debug/net8.0/while-loops.AssemblyInfoInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/obj/Debug/net8.0/while-loops.AssemblyInfo.cs
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/obj/Debug/net8.0/while-loops.csproj.CoreCompileInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/obj/Debug/net8.0/while-loops.sourcelink.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/obj/Debug/net8.0/while-loops.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/obj/Debug/net8.0/refint/while-loops.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/obj/Debug/net8.0/while-loops.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/obj/Debug/net8.0/while-loops.genruntimeconfig.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/while_loops/while-loops/obj/Debug/net8.0/ref/while-loops.dll

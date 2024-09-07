@@ -1,0 +1,15 @@
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/bin/Debug/net8.0/console_rocket
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/bin/Debug/net8.0/console_rocket.deps.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/bin/Debug/net8.0/console_rocket.runtimeconfig.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/bin/Debug/net8.0/console_rocket.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/bin/Debug/net8.0/console_rocket.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/obj/Debug/net8.0/console_rocket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/obj/Debug/net8.0/console_rocket.AssemblyInfoInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/obj/Debug/net8.0/console_rocket.AssemblyInfo.cs
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/obj/Debug/net8.0/console_rocket.csproj.CoreCompileInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/obj/Debug/net8.0/console_rocket.sourcelink.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/obj/Debug/net8.0/console_rocket.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/obj/Debug/net8.0/refint/console_rocket.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/obj/Debug/net8.0/console_rocket.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/obj/Debug/net8.0/console_rocket.genruntimeconfig.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/rocket_project/console_rocket/obj/Debug/net8.0/ref/console_rocket.dll
