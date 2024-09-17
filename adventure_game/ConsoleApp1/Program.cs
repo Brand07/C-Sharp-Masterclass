@@ -10,7 +10,7 @@ string playerName = Console.ReadLine();
 Console.WriteLine("Choose your character's class (Warrior, Wizard, Archer");
 string characterType = Console.ReadLine();
 
-Console.WriteLine($"$You, {playerName} the {characterType} find yourself at the edge" +
+Console.WriteLine($"You, {playerName} the {characterType} find yourself at the edge " +
                   $"of a dark forrest.. ");
 Console.WriteLine("Do you enter the forrest or camp outside? (Enter/Camp)");
 string choice1 = Console.ReadLine();
@@ -35,7 +35,7 @@ while (gameContinues)
 		Console.WriteLine("You find a treasure chest!");
 		gameContinues = false;
 	}
-	else
+	else if (direction.ToLower() == "right")
 	{
 		Console.WriteLine("You encounter a wild beast!");
 		Console.WriteLine("Fight or flee? (fight/flee)");
@@ -45,6 +45,7 @@ while (gameContinues)
 			Random random = new Random();
 			int luck = random.Next(1, 11);
 			if (luck > 5)
+				
 			{
 				Console.WriteLine("You beat the wild beast!");
 				if (luck > 8)
