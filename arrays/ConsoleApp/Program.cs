@@ -17,7 +17,7 @@ Console.WriteLine(myIntArray[3]); //Should print 12 in the console
 string[] weekdays = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
 
 //Foreach loop to loop through the days of the week
-foreach (var day in weekdays)
+foreach (string day in weekdays)
 {
 	Console.WriteLine($"Today is {day}");
 }
