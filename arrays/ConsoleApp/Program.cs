@@ -22,3 +22,11 @@ foreach (string day in weekdays)
 	Console.WriteLine($"Today is {day}");
 }
 
+//Two-dimensional array
+int[,] array2DDeclaration = new int[3, 3]; //Think X and Y axis
+
+// [0] [0] [0]
+// [0] [0] [0]
+// [0] [0] [0]
+
+
