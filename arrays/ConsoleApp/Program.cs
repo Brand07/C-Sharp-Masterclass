@@ -24,9 +24,16 @@ foreach (string day in weekdays)
 
 //Two-dimensional array
 int[,] array2DDeclaration = new int[3, 3]; //Think X and Y axis
+// [0] [0] [0]
+// [0] [0] [0]
+// [0] [0] [0]
 
-// [0] [0] [0]
-// [0] [0] [0]
-// [0] [0] [0]
+//Init 2D array
+int[,] array2DInitialized = { { 1, 2 }, { 3, 4 } };
+// [1] [2] -- Row 0
+// [3] [4] -- Row 1
+
+//Three dimensional array
+int[,,] array3DDeclaration = new int[3, 3, 3];
 
 
