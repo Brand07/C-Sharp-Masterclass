@@ -1,0 +1,15 @@
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/arrays/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
