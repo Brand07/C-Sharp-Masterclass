@@ -27,5 +27,13 @@ int AddTwoValues(int value1, int value2)
 	return result;
 }
 
+int SubtractTwoValues(int value1, int value2)
+{
+	int result = value1 - value2;
+	return result;
+}
+
 int myReult = AddTwoValues(5, 10);
 Console.WriteLine($"My result is {myReult}");
+
+
