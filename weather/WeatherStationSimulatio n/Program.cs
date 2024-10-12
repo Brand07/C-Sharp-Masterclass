@@ -32,7 +32,11 @@ class Program
 			return temperature[0];
 		}
 
+		temperature.Max();
+
 		//double averageTemp = CalculateAverage(temperature);
 		Console.WriteLine($"Average temperature is: {CalculateAverage(temperature)}");
+		Console.WriteLine($"The max temp was {temperature.Max()}");
+		Console.WriteLine($"The min temp was {temperature.Min()}");
 	}
 }
