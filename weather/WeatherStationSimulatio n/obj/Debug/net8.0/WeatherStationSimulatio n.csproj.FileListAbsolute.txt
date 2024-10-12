@@ -1,0 +1,15 @@
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/bin/Debug/net8.0/WeatherStationSimulatio n
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/bin/Debug/net8.0/WeatherStationSimulatio n.deps.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/bin/Debug/net8.0/WeatherStationSimulatio n.runtimeconfig.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/bin/Debug/net8.0/WeatherStationSimulatio n.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/bin/Debug/net8.0/WeatherStationSimulatio n.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/obj/Debug/net8.0/WeatherStationSimulatio n.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/obj/Debug/net8.0/WeatherStationSimulatio n.AssemblyInfoInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/obj/Debug/net8.0/WeatherStationSimulatio n.AssemblyInfo.cs
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/obj/Debug/net8.0/WeatherStationSimulatio n.csproj.CoreCompileInputs.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/obj/Debug/net8.0/WeatherStationSimulatio n.sourcelink.json
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/obj/Debug/net8.0/WeatherStationSimulatio n.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/obj/Debug/net8.0/refint/WeatherStationSimulatio n.dll
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/obj/Debug/net8.0/WeatherStationSimulatio n.pdb
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/obj/Debug/net8.0/WeatherStationSimulatio n.genruntimeconfig.cache
+/Users/brandonyates/Documents/csharp/C-Sharp-Masterclass/weather/WeatherStationSimulatio n/obj/Debug/net8.0/ref/WeatherStationSimulatio n.dll
