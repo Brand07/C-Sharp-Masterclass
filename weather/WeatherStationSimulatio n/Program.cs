@@ -21,6 +21,29 @@ class Program
 			weatherConditions[i] = conditions[random.Next(conditions.Length)];
 		}
 
+		static string MostCommonCondition(string[] conditions)
+		{
+			int count = 0;
+			string mostCommon = conditions[0];
+
+			for (int i = 0; i < conditions.Length; i++)
+			{
+				int tempCount = 0;
+				for (int j = 0; j < conditions.Length; j++)
+				{
+					if (conditions[j] == conditions[i])
+					{
+						tempCount++;
+					}
+				}
+				if (tempCount > count)
+				{
+					mostCommon = conditions[i];
+				}
+			}
+			return mostCommon;
+		}
+		
 		static double CalculateAverage(int[] temperature)
 		{
 			double sum = 0;
@@ -38,5 +61,6 @@ class Program
 		Console.WriteLine($"Average temperature is: {CalculateAverage(temperature)}");
 		Console.WriteLine($"The max temp was {temperature.Max()}");
 		Console.WriteLine($"The min temp was {temperature.Min()}");
+		Console.WriteLine($"Most common condition was {MostCommonCondition(weatherConditions)}");
 	}
 }
