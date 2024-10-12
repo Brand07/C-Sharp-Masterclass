@@ -6,11 +6,7 @@ class Program
 	{
 		int myResult;
 
-		int AddTwoValues(int value1, int value2)
-		{
-			int result = value1 + value2;
-			return result;
-		}
+		
 
 		int SubtractTwoValues(int value1, int value2)
 		{
@@ -23,5 +19,11 @@ class Program
 
 		myResult = AddTwoValues(num1, 10);
 		Console.WriteLine($"The result is {myResult}");
+	}
+	//static allows a method to be used outside of the main method
+	static int AddTwoValues(int value1, int value2)
+	{
+		int result = value1 + value2;
+		return result;
 	}
 }
