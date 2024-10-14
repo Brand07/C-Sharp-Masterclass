@@ -4,9 +4,16 @@ namespace ClassesApp;
 
 public class Car
 {
+	//Member variable
+	//Private hides the variable from other classes
+	private string _brand = "";
+	private string _model = "";
+	
 	//Constructor
-	public Car()
+	public Car(string brand, string model)
 	{
-		Console.WriteLine("An object of Car has been created.");
+		_brand = brand;
+		_model = model;
+		Console.WriteLine($"A car with the brand of {_brand} and the model {_model} has been created.");
 	}
 }
