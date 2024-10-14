@@ -16,7 +16,7 @@ public class Car
 	//Constructor
 	public Car(string brand, string model)
 	{
-		_brand = brand;
+		Brand = brand;
 		Model = model;
 		Console.WriteLine($"A car with the brand of {_brand} and the model {_model} has been created.");
 	}
